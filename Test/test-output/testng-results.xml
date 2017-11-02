@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10426" started-at="2017-10-21T14:13:29Z" finished-at="2017-10-21T14:13:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10426" started-at="2017-10-21T14:13:29Z" finished-at="2017-10-21T14:13:39Z">
+      <class name="automationConcepts.AssertionUsingTestNG">
+        <test-method status="PASS" signature="Everification()[pri:0, instance:automationConcepts.AssertionUsingTestNG@224edc67]" name="Everification" duration-ms="10400" started-at="2017-10-21T09:13:29Z" finished-at="2017-10-21T09:13:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Everification -->
+      </class> <!-- automationConcepts.AssertionUsingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
